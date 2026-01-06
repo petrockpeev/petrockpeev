@@ -17,7 +17,7 @@ security, which influence how I approach game systems, AI behavior, and data-dri
 - **Rinconada-Bikol Sentiment Analysis Browser Extension**  
   A browser extension that detects sentiment in Rinconada-Bikol text using a combination of traditional machine learning and deep learning models on the backend.
 
-- **Cryptography Web App (Streamlit)**  
+- **[Cryptography Web App (Streamlit)](https://cryptxbcf.streamlit.app)**  
   A Streamlit-based application that encrypts user input using selected cryptographic algorithms, built to demonstrate practical cryptography concepts.
 
 - **Synthetic Data Generator for Credit Risk**  
@@ -28,10 +28,21 @@ security, which influence how I approach game systems, AI behavior, and data-dri
   > ⚠️ Source files were lost, but the application remains installed and functional on my Android device.
 
 ### 🧠 Skills & Interests
-- Game Development (Unity 3D, Blender)
-- Programming & Algorithms
-- Machine Learning & NLP
-- Cryptography & Application Security
+
+**Programming & Development**
+- Python, Java, Kotlin, JavaScript
+- HTML5, CSS
+- SQL, Git
+
+**Game Development**
+- Unity 3D (C#)
+- Blender (3D modeling & asset creation)
+
+**AI & Data**
+- Artificial Intelligence
+- Machine Learning
+- Data Collection & Dataset Preparation
+- Natural Language Processing
 
 ### 🚀 Goals
 - Build complete indie-style game prototypes
