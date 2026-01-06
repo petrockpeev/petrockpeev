@@ -14,13 +14,13 @@ security, which influence how I approach game systems, AI behavior, and data-dri
 
 ### 📁 Projects
 
-- **Rinconada-Bikol Sentiment Analysis Browser Extension**  
+- **[Rinconada-Bikol Sentiment Analysis Browser Extension](https://github.com/petrockpeev/RLSA_Chrome_Extension)**  
   A browser extension that detects sentiment in Rinconada-Bikol text using a combination of traditional machine learning and deep learning models on the backend.
 
 - **[Cryptography Web App (Streamlit)](https://cryptxbcf.streamlit.app)**  
   A Streamlit-based application that encrypts user input using selected cryptographic algorithms, built to demonstrate practical cryptography concepts.
 
-- **Synthetic Data Generator for Credit Risk**  
+- **[Synthetic Data Generator for Credit Risk](https://g8syntheticproject.streamlit.app)**  
   A tool for generating synthetic credit risk datasets for modeling, testing, and exploratory analysis.
 
 - **Android Automated To-Do List App**  
