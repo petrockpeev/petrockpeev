@@ -52,7 +52,7 @@ security, which influence how I approach game systems, AI behavior, and data-dri
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/username.somebody) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:markangelobclores@gmail.com) 
 
-Some repositories are hosted on a separate GitHub account associated with my educational institution.
+Some repositories are hosted on a separate GitHub account associated with my educational institution.\
 Thanks for visiting my profile!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
