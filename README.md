@@ -7,8 +7,6 @@ designing systems that combine technical depth with interactive experiences.
 While my main interest is game development, I also built projects in machine learning, NLP, and
 security, which influence how I approach game systems, AI behavior, and data-driven mechanics.
 
-This is my personal account and I'll link my
-
 ### 🎮 Game Development Focus
 - **Unity 3D** – gameplay logic, scene management, input systems
 - **Blender** – 3D modeling, basic texturing, and asset preparation
