@@ -15,7 +15,7 @@ security, which influence how I approach game systems, AI behavior, and data-dri
 ### 📁 Projects
 
 - **Rinconada-Bikol Sentiment Analysis Browser Extension**  
-  A browser extension that analyzes Rinconada text and predicts sentiment, focusing on NLP for a low-resource language.
+  A browser extension that detects sentiment in Rinconada-Bikol text using a combination of traditional machine learning and deep learning models on the backend.
 
 - **Cryptography Web App (Streamlit)**  
   A Streamlit-based application that encrypts user input using selected cryptographic algorithms, built to demonstrate practical cryptography concepts.
