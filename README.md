@@ -4,8 +4,7 @@ I'm a Computer Science student with a great interest in **game development** cur
 **Unity 3D** for gameplay programming and **Blender** for 3D modeling and asset creation. I enjoy
 designing systems that combine technical depth with interactive experiences.
 
-While my main interest is game development, I also built projects in chrome extensions, NLP, and
-security, which influence how I approach game systems, AI behavior, and data-driven mechanics.
+While my main interest is game development, I also built projects such as a chrome extension utilizing Machine Learning and NLP, data encryption, and data analysis, that influence how I approach software development as a whole.
 
 ### 🎮 Game Development Focus
 - **Unity 3D** – gameplay logic, scene management, input systems
